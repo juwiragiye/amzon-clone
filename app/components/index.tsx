@@ -1,3 +1,5 @@
 import Header from "./Header";
+import Banner from "./Banner";
+import ProdcuctFeed from "./ProductFeed";
 
-export { Header };
+export { Header, Banner, ProdcuctFeed };
